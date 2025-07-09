@@ -1,0 +1,6 @@
+[theme]
+backgroundColor = "#800080"        # Purple color hex code
+primaryColor = "#bb86fc"           # Optional: a lighter purple for accents
+secondaryBackgroundColor = "#a020f0"  # Optional: a secondary purple shade
+textColor = "#ffffff"              # White text for contrast
+font = "sans serif"

@@ -1,0 +1,45 @@
+# recommended gitignore file by robot learner, datasciencebyexample
+
+# Ignore generated files
+*.class
+*.jar
+*.o
+*.pyc
+*.dll
+
+# Ignore sensitive information
+*.key
+*.pem
+*.env
+*.config
+
+# Ignore user-specific files
+*.log
+*.swp
+*.DS_Store
+Thumbs.db
+
+# Ignore build artifacts and output
+/bin
+/build
+/dist
+/target
+
+# Ignore third-party libraries and dependencies
+/node_modules
+/vendor
+/.venv
+/.gradle
+
+# Ignore original database
+data/*.db
+
+# PyCharm project files
+.idea/
+
+# environment variable
+.env
+
+debugging_scripts/test_openai.py
+
+debugging_scripts/
