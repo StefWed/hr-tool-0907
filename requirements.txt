@@ -1,3 +1,6 @@
 streamlit
 pandas
 matplotlib
+langchain
+langchain-openai
+langchain-community
